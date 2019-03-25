@@ -371,6 +371,10 @@ footer {
   padding: 50px 0 65px;
 }
 
+body {
+  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
+}
+
 footer .list-inline {
   margin: 0;
   padding: 0;
