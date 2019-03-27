@@ -304,10 +304,10 @@ header.masthead .post-heading .meta a {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
-  body {
+  body{
   font-size: 20px;
   color: #212529;
-  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif, !important;
   }
 }
 
