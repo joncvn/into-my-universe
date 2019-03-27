@@ -216,7 +216,7 @@ header.masthead .site-heading .subheading {
   line-height: 1.1;
   display: block;
   margin: 10px 0 0;
-  font-family: 'Open Sans Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media only screen and (min-width: 768px) {
@@ -304,6 +304,11 @@ header.masthead .post-heading .meta a {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
+  body {
+  font-size: 20px;
+  color: #212529;
+  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
+  }
 }
 
 .floating-label-form-group {
@@ -369,10 +374,6 @@ form .form-group:first-child .floating-label-form-group {
 
 footer {
   padding: 50px 0 65px;
-}
-
-body {
-  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
 }
 
 footer .list-inline {
