@@ -191,11 +191,6 @@ header.masthead .site-heading {
 }
 
 @media only screen and (min-width: 768px) {
-  body {
-  font-size: 20px;
-  color: #212529;
-  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
-}
   header.masthead .page-heading,
   header.masthead .post-heading,
   header.masthead .site-heading {
@@ -337,7 +332,7 @@ header.masthead .post-heading .meta a {
 .floating-label-form-group input::-webkit-input-placeholder,
 .floating-label-form-group textarea::-webkit-input-placeholder {
   color: #868e96;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
 }
 
 .floating-label-form-group label {
