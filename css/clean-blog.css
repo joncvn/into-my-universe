@@ -191,6 +191,11 @@ header.masthead .site-heading {
 }
 
 @media only screen and (min-width: 768px) {
+  body {
+  font-size: 20px;
+  color: #212529;
+  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
+}
   header.masthead .page-heading,
   header.masthead .post-heading,
   header.masthead .site-heading {
@@ -303,11 +308,6 @@ header.masthead .post-heading .meta a {
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
-  }
-  body{
-  font-size: 20px;
-  color: #212529;
-  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif, !important;
   }
 }
 
