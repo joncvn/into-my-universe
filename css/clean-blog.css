@@ -225,9 +225,11 @@ header.masthead .site-heading .subheading {
     font-size: 80px;
   }
 }
-
+body{
+  font-size: 17px;
+}
 p {
-  font-size: 15px;
+  font-size: 17px;
   font-family: 'Open Sans Light', 'Open Sans', 'Lora', 'Times New Roman', serif;
 }
 header.masthead .post-heading h1 {
