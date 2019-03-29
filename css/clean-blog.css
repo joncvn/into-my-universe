@@ -196,8 +196,7 @@ header.masthead .site-heading {
   }
   p{
     font-family: 'Open Sans', 'Lora', 'Times New Roman', serif;
-    font-weight: 300;
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 @media only screen and (min-width: 768px) {
