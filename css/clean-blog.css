@@ -228,6 +228,9 @@ header.masthead .site-heading .subheading {
 body{
   font-size: 17px;
 }
+.post-preview{
+  font-size: 17px;
+}
 p {
   font-size: 17px;
   font-family: 'Open Sans Light', 'Open Sans', 'Lora', 'Times New Roman', serif;
