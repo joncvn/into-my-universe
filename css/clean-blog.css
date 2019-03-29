@@ -225,6 +225,9 @@ header.masthead .site-heading .subheading {
     font-size: 80px;
   }
 }
+body {
+  font-family: 'Open Sans Light', 'Lora', 'Times New Roman', serif;
+}
 p {
   font-family: 'Open Sans Light', 'Open Sans', 'Lora', 'Times New Roman', serif;
 }
