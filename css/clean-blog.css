@@ -225,7 +225,9 @@ header.masthead .site-heading .subheading {
     font-size: 80px;
   }
 }
-
+p {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
 header.masthead .post-heading h1 {
   font-size: 35px;
 }
