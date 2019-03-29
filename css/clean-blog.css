@@ -190,6 +190,11 @@ header.masthead .site-heading {
   color: white;
 }
 
+@media(max-width:768px){
+  p{
+    font-size: 2px;
+  }
+}
 @media only screen and (min-width: 768px) {
   header.masthead .page-heading,
   header.masthead .post-heading,
@@ -225,14 +230,7 @@ header.masthead .site-heading .subheading {
     font-size: 80px;
   }
 }
-body{
-  font-size: 17px;
-}
 
-p {
-  font-size: 17px;
-  font-family: 'Open Sans Light', 'Open Sans', 'Lora', 'Times New Roman', serif;
-}
 header.masthead .post-heading h1 {
   font-size: 35px;
 }
@@ -272,7 +270,6 @@ header.masthead .post-heading .meta a {
 
 .post-preview > a {
   color: #212529;
-  font-size: 20px;
 }
 
 .post-preview > a:focus, .post-preview > a:hover {
