@@ -1,8 +1,5 @@
 # [This is my website](https://me.johncvn.ovh/)
 
-
-https://github.com/BlackrockDigital/startbootstrap-clean-blog
-
 This is the repository of my [website](https://me.johncvn.ovh/). I used a responsive blog theme, [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
 ## About
