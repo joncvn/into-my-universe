@@ -77,6 +77,11 @@ img::-moz-selection {
   background: transparent;
 }
 
+.img-post{
+  max-width: 20%;
+  height: auto;
+}
+
 #mainNav {
   position: absolute;
   border-bottom: 1px solid #e9ecef;
